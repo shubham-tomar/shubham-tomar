@@ -34,9 +34,6 @@ Feel free to connect with me. Let's build something amazing together!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shubham-tomar&theme=radical)
 
-- Use: [spotify-readme](https://github.com/novatorem/novatorem)
-🎧 Now Playing: [Song Name](spotify link) by Artist
-
 <!--
 **shubham-tomar/shubham-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
