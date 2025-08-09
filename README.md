@@ -35,6 +35,8 @@ Feel free to connect with me. Let's build something amazing together!
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-tomar&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=shubham-tomar&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-tomar&hide=css,html&layout=compact)
+
 <!--
 **shubham-tomar/shubham-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
