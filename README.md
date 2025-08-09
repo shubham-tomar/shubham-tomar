@@ -5,6 +5,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Shubham+Tomar+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
 </div>
+<div align="centre">
+<p>I’m currently working on Data Platform (iceberg + Doris + nessie + warpStream + goLang)</p>
+
+</div>
 
 <br>
 
