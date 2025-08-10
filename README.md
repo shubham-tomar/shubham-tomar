@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-tomar&locale=en&hide_title=false&hide=css,html,ipynb,jupyter%20notebook,javascript&exclude_repo=course-master-big-data-with-pyspark-and-aws,nix,DLProjs,finance-tracker-app,BookSummaryApp&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-tomar&locale=en&hide_title=false&hide=css,html,ipynb,jupyter%20notebook,javascript&exclude_repo=course-master-big-data-with-pyspark-and-aws,nix,DLProjs,finance-tracker-app,BookSummaryApp&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
