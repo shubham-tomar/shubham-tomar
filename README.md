@@ -3,20 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Shubham+Tomar+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hi,+I'm+Shubham+Tomar+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=09e611&center=true&vCenter=true&width=600&lines=Developer;Data+Engineer;Builder&prefix=Hey%2C+I+am+Shubham+Tomar+and+I+am+a+" alt="Typing SVG" />
-</div>
-
 
 
 <br>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-tomar&locale=en&hide_title=false&hide=css,html,ipynb,jupyter%20notebook,javascript&exclude_repo=course-master-big-data-with-pyspark-and-aws,nix,DLProjs,finance-tracker-app&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-tomar&locale=en&hide_title=false&hide=css,html,ipynb,jupyter%20notebook,javascript&exclude_repo=course-master-big-data-with-pyspark-and-aws,nix,DLProjs,finance-tracker-app,BookSummaryApp&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
@@ -38,13 +33,15 @@ Feel free to connect with me. Let's build something amazing together!
   </a>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shubham-tomar&theme=radical)
 
 <!--
 **shubham-tomar/shubham-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-tomar&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shubham-tomar&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
