@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Shubham+Tomar+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=09e611&center=true&vCenter=true&width=600&lines=Hey%2C+I+am+Shubham+Tomar+and+I+am+a+Developer;Hey%2C+I+am+Shubham+Tomar+and+I+am+a+Data+Engineer;Hey%2C+I+am+Shubham+Tomar+and+I+am+a+Builder" alt="Typing SVG" />
+</div>
+
+
 <br>
 
 <div align="center">
