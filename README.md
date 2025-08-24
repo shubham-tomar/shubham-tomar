@@ -1,6 +1,6 @@
-<div align="left">
-  <b><pwn>🔴 🟡 🟢</pwn></b>
-</div>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=80&section=header"/>
+</a>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hi,+I'm+Shubham+Tomar+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
@@ -52,3 +52,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=80&section=footer"/>
+</a>
