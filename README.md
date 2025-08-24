@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F4511E&height=20&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=80&section=header"/>
 </a>
 
 <div align="center">
@@ -52,3 +52,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=80&section=footer"/>
+</a>
