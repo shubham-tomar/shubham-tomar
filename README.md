@@ -1,10 +1,10 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F6BC0C&height=80&section=header"/>
-</a>
-
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F6BC0C&height=50&section=header"/>
+</a>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hi,+I'm+Shubham+Tomar+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
