@@ -1,9 +1,5 @@
-<div align="left">
-  <b><pwn>🔴 🟡 🟢</pwn></b>
-</div>
-
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F6BC0C&height=50&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F4511E&height=20&section=header"/>
 </a>
 
 <div align="center">
