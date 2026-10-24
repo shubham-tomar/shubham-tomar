@@ -17,7 +17,7 @@
 ---
 
 <div align="centre">
-<p>🔭 I’m currently working on building Data Platform for Pixis.ai (iceberg + Doris + nessie + warpStream + goLang)</p>
+<p>🔭 I’m currently working as Staff Engineer at Zycus.com building data platform + Agentic Analytics (Clickhouse/StarRocks + neo4j + Kafka + goLang)</p>
 </div>
 
 ### 🔗 Connect with Me
